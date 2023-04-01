@@ -1,4 +1,4 @@
-countries-data = [
+countries_data = [
     {
         "name": "Afghanistan",
         "capital": "Kabul",
